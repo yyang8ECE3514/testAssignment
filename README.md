@@ -1,2 +1,2 @@
 # testAssignment
-A test assignment
+A test assignment about distributing assignment to a class
